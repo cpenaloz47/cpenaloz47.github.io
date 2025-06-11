@@ -23,3 +23,8 @@
       background-color: #a2d2ff;
       color: #000;
     }
+
+    .image-tamano {
+    height: 250px;
+    width: 100%;
+    }
